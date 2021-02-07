@@ -1,4 +1,4 @@
-# Andy's HTML Class Project
+# Andy's HTML Class Practice
 
 by Andres Cerda
 
